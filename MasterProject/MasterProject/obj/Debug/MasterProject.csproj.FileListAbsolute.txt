@@ -15,3 +15,9 @@ C:\Users\John\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\obj\Deb
 C:\Users\Brannon Stegemoeller\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\bin\Debug\MasterProject.exe.config
 C:\Users\Brannon Stegemoeller\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\obj\Debug\MasterProject.pdb
 >>>>>>> fcef9077e6ef9e9e8a3be4e805bb87e56f60e23a
+C:\Users\John\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\bin\Debug\MasterProject.exe
+C:\Users\John\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\bin\Debug\MasterProject.pdb
+C:\Users\John\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\obj\Debug\MasterProject.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\obj\Debug\MasterProject.Form1.resources
+C:\Users\John\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\obj\Debug\MasterProject.Properties.Resources.resources
+C:\Users\John\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\obj\Debug\MasterProject.csproj.GenerateResource.Cache
