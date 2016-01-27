@@ -1,0 +1,9 @@
+C:\Users\John\Desktop\MasterProject\MasterProject\bin\Debug\MasterProject.exe.config
+C:\Users\John\Desktop\MasterProject\MasterProject\bin\Debug\MasterProject.exe
+C:\Users\John\Desktop\MasterProject\MasterProject\bin\Debug\MasterProject.pdb
+C:\Users\John\Desktop\MasterProject\MasterProject\obj\Debug\MasterProject.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MasterProject\MasterProject\obj\Debug\MasterProject.Form1.resources
+C:\Users\John\Desktop\MasterProject\MasterProject\obj\Debug\MasterProject.Properties.Resources.resources
+C:\Users\John\Desktop\MasterProject\MasterProject\obj\Debug\MasterProject.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\MasterProject\MasterProject\obj\Debug\MasterProject.exe
+C:\Users\John\Desktop\MasterProject\MasterProject\obj\Debug\MasterProject.pdb
