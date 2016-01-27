@@ -7,3 +7,5 @@ C:\Users\John\Desktop\MasterProject\MasterProject\obj\Debug\MasterProject.Proper
 C:\Users\John\Desktop\MasterProject\MasterProject\obj\Debug\MasterProject.csproj.GenerateResource.Cache
 C:\Users\John\Desktop\MasterProject\MasterProject\obj\Debug\MasterProject.exe
 C:\Users\John\Desktop\MasterProject\MasterProject\obj\Debug\MasterProject.pdb
+C:\Users\Brannon Stegemoeller\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\bin\Debug\MasterProject.exe.config
+C:\Users\Brannon Stegemoeller\Documents\GitHub\Vaya-Con-Dios\MasterProject\MasterProject\obj\Debug\MasterProject.pdb
