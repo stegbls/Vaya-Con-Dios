@@ -25,6 +25,18 @@ namespace MasterProject
             locationy = y;
         }
 
+        private int locationp;
+
+        public int getLocationP()
+        {
+            return this.locationp;
+        }
+
+        public void setLocationP(int p)
+        {
+            this.locationp = p;
+        }
+
         //Private location X data member
         private int locationx {
             get{
