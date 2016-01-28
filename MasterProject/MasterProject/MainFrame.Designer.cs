@@ -28,43 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainFrame));
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.gameTime = new System.Windows.Forms.Timer(this.components);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
-            this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(800, 800);
-            this.pictureBox1.TabIndex = 3;
-            this.pictureBox1.TabStop = false;
-            // 
-            // gameTime
-            // 
-            this.gameTime.Tick += new System.EventHandler(this.gameTime_Tick);
             // 
             // MainFrame
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(784, 561);
-            this.Controls.Add(this.pictureBox1);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(782, 500);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "MainFrame";
-            this.Text = "MainFrame";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.MainFrame_KeyDown);
+            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.MainFrame_MouseMove);
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Timer gameTime;
     }
 }
